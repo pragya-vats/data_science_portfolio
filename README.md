@@ -8,6 +8,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
  >      This project aims to solve the problem of predicting the price of a used car, 
  >      using Sklearn's supervised machine learning techniques.
- >      It is clearly a regression problem and predictions are carried out on dataset of used car sales in the american car market.
+ >      It is clearly a regression problem and predictions are carried out on dataset 
+ >      of used car sales in the american car market.
  >      
  
